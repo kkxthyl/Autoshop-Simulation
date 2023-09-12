@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="lib" path="/Users/marshy91/Documents/SFU/200lvl/iat/iat265/A04/D102_Kathy_Lee_Assignment4_Milestone2_301420416 /jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/marshy91/Documents/SFU/200lvl/iat/iat265/A04/D102_Kathy_Lee_Assignment4_Milestone2_301420416 /jsminim.jar"/>
+	<classpathentry kind="lib" path="/Users/marshy91/Documents/SFU/200lvl/iat/iat265/A04/D102_Kathy_Lee_Assignment4_Milestone2_301420416 /minim.jar"/>
+	<classpathentry kind="lib" path="/Users/marshy91/Documents/SFU/200lvl/iat/iat265/A04/D102_Kathy_Lee_Assignment4_Milestone2_301420416 /mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/marshy91/Documents/SFU/200lvl/iat/iat265/A04/D102_Kathy_Lee_Assignment4_Milestone2_301420416 /tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/Users/marshy91/Documents/SFU/200lvl/iat/iat265/A04/D102_Kathy_Lee_Assignment4_Milestone2_301420416 /tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
