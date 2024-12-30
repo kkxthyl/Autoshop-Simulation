@@ -1,7 +1,7 @@
 # Autoshop-Simulation
 Interactive Arts and Technology - IAT265 Final Project
 
-![Simulation Image](contents/assets/startPage.png)
+![Simulation Image](Autoshop.png)
 
 
 [Video Demo](https://youtu.be/B6oibWV_8uw)
